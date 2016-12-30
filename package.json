@@ -1,7 +1,6 @@
 {
   "name": "BestDressed",
   "version": "1.0.0",
-  "main": "server/app.js",
   "dependencies": {
     "body-parser": "^1.13.3",
     "cheerio": "^0.19.0",
@@ -36,6 +35,5 @@
   },
   "engines": {
     "node": ">=0.10.0"
-  },
-  "private": true
+  }
 }
